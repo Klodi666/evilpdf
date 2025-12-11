@@ -1,6 +1,4 @@
 # EvilPDF v1.1
-## Author: https://github.com/thelinuxchoice/evilpdf
-## Twitter: https://twitter.com/linux_choice
 ### Read the license before using any part from this code :) 
 
 Hiding executable files in PDF documents
@@ -13,7 +11,7 @@ Usage of EvilPDF for attacking targets without prior mutual consent is illegal. 
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/evilpdf
+
 cd evilpdf
 python -m pip install pypdf2
 python evilpdf.py

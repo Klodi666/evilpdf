@@ -11,7 +11,7 @@ Usage of EvilPDF for attacking targets without prior mutual consent is illegal. 
 
 ### Usage:
 ```
-
+git clone https://github.com/Klodi666/evilpdf/tree/main
 cd evilpdf
 python -m pip install pypdf2
 python evilpdf.py
